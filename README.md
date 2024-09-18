@@ -73,7 +73,7 @@ Ransomware attacks continue to pose severe risks to the healthcare sector, neces
 - [Threat Actor Profile: BianLian, The Shape-Shifting Ransomware Group](https://socradar.io/threat-actor-profile-bianlian-the-shape-shifting-ransomware-group/)
 
 ## Credits
-I am excited to share my latest Medium case study, co-authored with [Mohamed Chakib Bader](https://www.linkedin.com/in/mohamed-chakib-bader-60487b277/), focusing on defending against ransomware assaults in the healthcare sector. Together, we delve
+I am excited to share my latest Medium case study, co-authored with [Mohamed Chakib Bader](https://www.linkedin.com/in/mohamed-chakib-bader-60487b277/), focusing on defending against ransomware assaults in the healthcare sector. Together, we delve.
 
 
 
